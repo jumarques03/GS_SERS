@@ -54,11 +54,11 @@ Para executar este projeto e visualizar a análise completa:
     git clone https://github.com/jumarques03/GS_SERS
     ```
 
-2.  **Instale as Dependências**
+2.  **Instale as Dependências:**
     O notebook utiliza as seguintes bibliotecas Python. Certifique-se de que elas estejam instaladas:
     ```bash
     pip install pandas matplotlib seaborn jupyter
     ```
     
-3.  **Execute o Notebook**
+3.  **Execute o Notebook:**
     Abra e execute o arquivo `GS_SERS.ipynb` em um ambiente compatível, como Jupyter Notebook, Jupyter Lab ou Google Colab.
