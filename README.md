@@ -51,7 +51,7 @@ Para executar este projeto e visualizar a análise completa:
 
 1.  **Clone o Repositório**
     ```bash
-    git clone [GS_SERS](https://github.com/jumarques03/GS_SERS)
+    git clone https://github.com/jumarques03/GS_SERS
     ```
 
 2.  **Instale as Dependências**
