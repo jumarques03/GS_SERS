@@ -1,4 +1,4 @@
-# Análise de Eficiência em Estações de Carregamento de EVs e o Futuro do Trabalho
+# Análise da Eficiência em Estações de Carregamento de Carros Elétricos e o Futuro do Trabalho
 
 Este repositório contém a análise de dados para a Global Solution sobre Energias Renováveis e Sustentabilidade. O projeto foca em identificar desperdícios em estações de carregamento de EVs e propor uma solução que conecta a eficiência energética ao futuro do trabalho.
 
