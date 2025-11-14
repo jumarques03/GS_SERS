@@ -29,7 +29,7 @@ Para solucionar os desperdícios identificados, propõe-se um **Sistema de Carre
 * **Incentivo de Horário:** Enviar notificações para usuários carregarem seus carros em horários de menor demanda.
 
 ### A Conexão com o Futuro do Trabalho
-A implementação e operação desse sistema cria novas funções que exigem habilidades analíticas e de gestão sustentável. A solução propõe a criação de cargos como:
+A implementação e operação desse sistema cria novas funções que exigem habilidades analíticas, de gestão sustentável e tecnológica. A solução propõe a criação de cargos como:
 
 * **Analista de Demanda de Eletromobilidade:** 
 * **Técnico Especializado em Carregadores Inteligentes:**
