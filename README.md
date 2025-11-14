@@ -51,7 +51,7 @@ Para executar este projeto e visualizar a análise completa:
 
 1.  **Clone o Repositório**
     ```bash
-    git clone [URL-DO-SEU-REPOSITÓRIO-AQUI]
+    git clone [GS_SERS](https://github.com/jumarques03/GS_SERS)
     ```
 
 2.  **Instale as Dependências**
@@ -61,4 +61,4 @@ Para executar este projeto e visualizar a análise completa:
     ```
     
 3.  **Execute o Notebook**
-    Abra e execute o arquivo `GS_SERSipynb.ipynb` em um ambiente compatível, como Jupyter Notebook, Jupyter Lab ou Google Colab.
+    Abra e execute o arquivo `GS_SERS.ipynb` em um ambiente compatível, como Jupyter Notebook, Jupyter Lab ou Google Colab.
